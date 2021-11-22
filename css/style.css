@@ -1,0 +1,13 @@
+header {
+    background-image: url(../img/head-img.jpg) !important;
+    background-size: cover !important;
+    height: 45vw !important;
+}
+#par{
+    font-family: 'Lobster', cursive !important;
+    position: relative !important;
+    top: 20vw !important;
+}
+#mgtv-1{
+    
+}
